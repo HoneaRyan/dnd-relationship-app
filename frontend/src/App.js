@@ -11,6 +11,8 @@ function App() {
   return (
     <div className="App">
       <ReputationSlider charName="Konstantin" />
+      <ReputationSlider charName="Orlov" />
+      <ReputationSlider charName="Eileen" />
     </div>
   );
 }
